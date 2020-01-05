@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/code/TronAGHClient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/TronAGHServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/mownit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/reactive-lab1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/reactive-lab2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/reactive-scala-labs-templates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/to2/sr-1115-runningthings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/tw - node/TW2018Actors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/tw - node/TW2018WebCrawler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/studia/author-identification-rnn-documentation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/work/app" vcs="Git" />
+  </component>
+</project>
